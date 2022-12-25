@@ -1,3 +1,3 @@
 # Sushi-Resturant
-##demo
+## Demo
 ## https://zillalsen.github.io/Sushi-Resturant/
